@@ -5,3 +5,4 @@ This notebook was created to train a Siamese Bert architecture to find similar p
 
 Due to lack of data, i have trained this model on the Quora Questions Pairs Dataset (https://www.kaggle.com/c/quora-question-pairs)
 
+<img src="https://github.com/deepampatel/TwinBert/raw/master/img/twinbert.png" width="100%">
